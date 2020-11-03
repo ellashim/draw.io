@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-11-01T07:32:28.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="9E9cCcxzoBv7-SzHZel9" version="13.8.8" type="github"><diagram id="tRasB_NjfDu-c17NouVs" name="Page-1">7Vpbc6M2FP41PK5HIDDiEbCz+7DtdDbb2elTBtuyzRQjF8tx0of+9uqKASmO7YUkndqzsxFHR+ig79zBgenm6XOVbde/kAUuHA8snhw4cTzPDb2A/eGUZ0UJokhSVlW+ULQj4T7/GysiVNR9vsC7FiMlpKD5tk2ck7LEc9qiZVVFDm22JSnau26zFTYI9/OsMKk/8gVdSyrywiP9C85Xa72zO1bPt8k0M5CE3TpbkEODBKcOTCtCqBxtnlJc8NPT5yLX3b0wWwtW4ZKes+DTF3+F199/UPf3b39M/F/dv8bpJ3XKj1mxVw+shKXP+gSY3Fs+3DytOMajXb4qdyNaZeVuSyqa0ZyUo1k+f54X+MF1YLKmm4Lx8+GW5CXF1fSRybhTtGVeFCkpSCVuD5fLOfsx+o5W5E/cmIFjGEEmfPKIK5ozSL5mM1z8RnY535LxzAilZNNgiAsmG5ugZMuombqaYy4DI5gnpg6Rr8dPDZI6wc+YbDCtnhmLmg38YKRUWms0kpeHo3ZoFV83FGOsDjZT+riqb32EjA0Uahcg6BsIxnPKjvAlGPebQjJcfa4NfMmeFnnJQNPGB0yAMZwjAGwAJyAKxMySlLSlEvzXD2A+6gKm7bEBGAQWwMBAgI1Nk4N3Blzs8Wj7rNvHV5ISd85akQy176K4yRcLvk1yWOcU32+zOd/zwIyb0SqyLxd4oaDsBQCgAWicuG85cW+oEw97cnJLXDFpLnVwM4AhHtv0H2AEEPpYDg4GhoMLLPhFyGIx0UD4IQO/f9jvDJPp0xQkejoHcAMOPq5y9oS44gvzcqX9H/Nm90osV1/LxAZ6preD8I79+kGPwddBL4AGdq5rMT5/KOPTm52yvp8PRF37nWW7fD7abfICP58MPW1YvRPhqwGja4GxDlpN+EEPmLodRH3fQHQcWKwxGApQ1wR0mjgJ4P+mqcOyH8SeW46nTiQGMXCQ70xjJ3EVW+w7kSt4Qs7D+cVNIp8PUMIZ2CAOnCQVs3KtnPUd5jf5LNBsEZ+SN4lTwZY6KHZiJIgTB0G+RN3H45d864leNXGiQEjIiLGQQVBiyc+eKK2nRob62pzHq7opvMs3ljWlWVGwPIoxirIJwhErLtgFh9sT66XScY8zky7p68yeFPCYIn6vKrZOHzo63YO6hpElXLjANzU0HCpeuJ5FQxmM0EkCoXqQ65TUMhbIWopQqw+bvRMaMeGwK/xrVY25qh4VSiu1ZKiVSM2e2Le+YcopSaiEQbUwodJ0RomFMMjj+tgVJnSSpkHUe6V8YYJuynum8o5brhai8L1V+YwC/RY9T0VPtxM83XeOnsG1xcgWk22BRweyycoH74o+Cx7b+yyLMJoJjPoqQwYwTC8KX7VM34JjNJhhmmX8e/ddenanHQutb9YDmjBsp7QwMtGEliZaiIZC09IisGeS1jgtEl0kY3zIs98P29B5Q5C9sO16YWgx2bdsA7lRL6738hY3Dlz/hQ6op857KNc7YGcV6jRb4YvA2MTX0iZywVAAe2e0Gm4An2/AwYcD2FLY3QC+PjfW2dHHAdhS7vDyFqn6mv0f68I5nhgVdMgj9rHtJIt0AEUoj3mAlkU1K6HVXTifd5xudQJkUEcq/PMKXhTuqhwX/SlVfJ8p3VSvrXsDqRBFtAT4bNpdwiRh8ihOJHoGzeVS7LAxDtrpSC2w6mHdqv+T9qDTS2UOYWTpnduq/8gbyhzMl7sGgrfq34ao9miB+bL3Tct9zywTv/NC4H9fHcAQdd5rjC3B5y3LA8/2mjj5DyDln0Cq/S6yB9iCNmjIf2/UzJfDl6WE1yWEAAQAL+1RzJ0k6UAJoQXqXj+W8bsZv/lxEwwtAXCovoz3syX7Dd2G7UbgY6ELLW+Sz0O3+/XhfvcAr0C5lW92vPUbAdxnTA1Au+MWIjP7sX2bCOHFALPL45erYq7xATCc/gs=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-03T13:20:22.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ok5rFQAV-DAsiuODYU2Q" version="13.8.8" type="github">
+  <diagram id="tRasB_NjfDu-c17NouVs" name="Page-1">
+    <mxGraphModel dx="3191" dy="2633" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-H4gehTWt1URYD4N1q6C-3" value="" style="shape=mxgraph.signs.transportation.bicycle_1;html=1;pointerEvents=1;fillColor=#ffcccc;strokeColor=#36393d;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-182.5" y="-1024" width="99" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-242.5" y="-1022" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-6" value="?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-247.5" y="-1042" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-7" value="" style="shape=mxgraph.signs.transportation.ferry;html=1;pointerEvents=1;fillColor=#b0e3e6;strokeColor=#0e8088;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-372.5" y="-1026.5" width="98" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-8" value="~~~~" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=15;perimeterSpacing=0;fontStyle=1;fontSize=32;fontColor=#33FFFF;" parent="1" vertex="1">
+          <mxGeometry x="-492.5" y="-989" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;strokeColor=#B09500;strokeWidth=2;fillColor=#e3c800;fontSize=12;fontColor=#ffffff;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="-726.5" y="-998" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-11" value="배와 자전거중에 바다를 건너려면 무슨 탈 것이 필요할까요." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=33.27;dy=21;size=5;boundedLbl=1;strokeColor=#000000;strokeWidth=2;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-648.5" y="-1042" width="104" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-12" value="공주님이 무도회에 갈 거에요 공주님에 옷을 마네킹에 그려주세요." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=33.27;dy=21;size=5;boundedLbl=1;strokeColor=#000000;strokeWidth=2;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-652" y="-655" width="104" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;strokeColor=#B09500;strokeWidth=2;fillColor=#e3c800;fontSize=12;fontColor=#ffffff;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="-717" y="-601" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-15" value="" style="shape=mxgraph.signs.people.woman_2;html=1;pointerEvents=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-431" y="-655" width="45" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-353" y="-645" width="39" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-17" value="무슨 옷을 입지?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-457" y="-665" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-19" value="" style="shape=mxgraph.signs.people.woman_1;html=1;pointerEvents=1;fillColor=#e51400;strokeColor=#B20000;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-416" y="-236" width="48" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-20" value="" style="shape=mxgraph.signs.people.woman_1;html=1;pointerEvents=1;fillColor=#e51400;strokeColor=#B20000;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-476" y="-236" width="48" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-22" value="" style="shape=mxgraph.signs.people.woman_1;html=1;pointerEvents=1;fillColor=#e51400;strokeColor=#B20000;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-529" y="-236" width="48" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-23" value="기차역에 여자가3명 남자2명이 있습니다 기차역에 있는 사람에 총 수는 몇 명 입니까." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=33.27;dy=21;size=5;boundedLbl=1;strokeColor=#000000;strokeWidth=2;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-650" y="-249" width="104" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;strokeColor=#B09500;strokeWidth=2;fillColor=#e3c800;fontSize=12;fontColor=#ffffff;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="-728" y="-192" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-26" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-349.5" y="-976" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-27" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-373" y="-196" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-28" value="" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#0050ef;strokeColor=#001DBC;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-286" y="-234" width="37" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-29" value="" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#0050ef;strokeColor=#001DBC;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-338" y="-234" width="37" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="-H4gehTWt1URYD4N1q6C-31" value="" style="shape=mxgraph.signs.transportation.bus_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-227" y="-262" width="99" height="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
